@@ -12,7 +12,7 @@ Revisar conceitos úteis para **testes manuais** no contexto **Ágil**, além de
 👉 [Mapa mental Ana Clara](https://github.com/Louiexz/dio-desafio-qa/blob/Master/Imagens/MindMapAnaClara.png)<br>
 👉 [Fluxo do trabalho](https://github.com/Louiexz/dio-desafio-qa/blob/Master/Imagens/WorkStateFlow.png)<br>
 👉 [Fluxo do ciclo de vida do bug](https://github.com/Louiexz/dio-desafio-qa/blob/Master/BugLifeCycleFlow.png)<br>
-👉 [Clique aqui para acessar a solução realizada](https://github.com/Louiexz/dio-desafio-qa/blob/Master/DesafioDioQA.pdf)
+👉 [Visualize pdf da solução](https://github.com/Louiexz/dio-desafio-qa/blob/Master/DesafioDioQA.pdf)
 
 ## Contribuição
 
